@@ -14,7 +14,7 @@
 
 ## Usage Instructions:-
 
-* Install the TDM GCC Compiler and configure with your code editor and fork the repository and run the file.
+* Install the TDM GCC Compiler and configure with your code editor and fork the repository and run the **a.exe** file.
 * Enjoy the Game!! 😎
 
 
