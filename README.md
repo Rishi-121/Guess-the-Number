@@ -9,5 +9,12 @@
 
 * C
 * Visual Studio Code (Code Editor)
-* [_GCC C Compiler_](https://sourceforge.net/projects/tdm-gcc/)
+* [GCC C Compiler](https://sourceforge.net/projects/tdm-gcc/)
+* [Ubuntu LTS 18.04.04 OS](http://old-releases.ubuntu.com/releases/18.04.4/)
+
+## Usage Instructions:-
+
+* Install the TDM GCC Compiler and configure with your code editor and fork the repository and run the file.
+* Enjoy the Game!! 😎
+
 
